@@ -1,3 +1,6 @@
+THIS REPOSITORY IS ARCHIVED. Please see the active repository @ https://github.com/openshift/sriov-network-device-plugin
+
+
 # SRIOV Network device plugin for Kubernetes
 
 [![Travis CI](https://travis-ci.org/intel/sriov-network-device-plugin.svg?branch=release-v1)](https://travis-ci.org/intel/sriov-network-device-plugin)
